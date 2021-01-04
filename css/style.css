@@ -10,3 +10,11 @@
 #img-me {
     width: 200px;
 }
+
+.fp-controlArrow.fp-prev {
+    border-color: transparent #343a40 transparent transparent;
+}
+
+.fp-controlArrow.fp-next {
+    border-color: transparent transparent transparent #343a40;
+}
